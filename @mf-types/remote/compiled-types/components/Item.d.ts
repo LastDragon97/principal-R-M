@@ -1,0 +1,2 @@
+declare const Item: import("@emotion/styled").StyledComponent<import("@mui/material/Paper").PaperOwnProps & import("@mui/material/OverridableComponent").CommonProps & Omit<import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, "className" | "style" | "classes" | "children" | "elevation" | "square" | "sx" | "variant"> & import("@mui/system").MUIStyledCommonProps<import("@mui/material/styles").Theme>, {}, {}>;
+export default Item;
